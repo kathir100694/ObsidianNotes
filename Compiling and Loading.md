@@ -1,0 +1,3 @@
+## Compiling Modules
+- The files found in the ***Documentation/kbuild*** directory in the kernel source are required reading for anybody wanting to understand all that is really going on beneath the surface.
+- The first is to ensure that you have sufficiently current versions of the compiler, module utilities, and other necessary tools. The file Documentation/Changes in the kernel documentation directory always lists the required tool versions; you should consult it before going any further.
