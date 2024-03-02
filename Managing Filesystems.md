@@ -1,0 +1,4 @@
+- Almost all modern distributions of Linux use a journaling filesystem.
+- When the kernel interacts with a journalling filesystem, writes to disk are first written to a log or journal before they are written to disk.
+- Most current Linux distributions default to the Third Extended (**ext3**) Filesystem.
+- 
