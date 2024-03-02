@@ -30,3 +30,7 @@ Three fundamental device types
 - A network interface is in charge of sending and receiving data packets, driven by the network subsystem of the kernel, without knowing how individual transactions map to the actual packets being transmitted.
 - A network driver knows nothing about individual connections; it only handles packets.
 - Communication between the kernel and a network device driver is completely different from that used with char and block drivers. Instead of read and write, the kernel calls functions related to packet transmission.
+
+
+
+test
