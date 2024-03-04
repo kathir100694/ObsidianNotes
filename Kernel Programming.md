@@ -1,5 +1,4 @@
 
-
 - kernel is a large, standalone program with detailed and explicit requirements on how its pieces are put together.
 - Kernel code cannot do floating point arithmetic.
 - Double underscore __ says to the programmer: “If you call this function, be sure you know what you are doing.”
